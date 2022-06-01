@@ -1,0 +1,27 @@
+((video/mp4v-es) or (video/mp4) or (audio/mp4) or (audio/mp4a-latm))
+
+Managed Machine Policy 
+Device Profile - Check
+Group CHeck 
+DLP - uploads and Donwloads - Enforce the Watermark and Encryption
+
+Unamanged MAchine POlicy 
+Device Profile - Negate Policy
+Group Check 
+DLP - Downloads - DRM for View
+DLP - Downlaods - Encryption
+
+API - Classify for Helathcare Data
+File Metadata protection
+
+Teams controls - Post control and Masking 
+
+
+Winzip-Password Protected
+User
+Encrypted Password -Email 
+Network share - local machine
+DLP policies 
+In the archieve
+Password - Copy 
+Encrypted Achieve Storage
